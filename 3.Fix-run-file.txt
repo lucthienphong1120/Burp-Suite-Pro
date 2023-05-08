@@ -1,0 +1,1 @@
+java -noverify -javaagent:burploader.jar -jar --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.desktop/javax.swing=ALL-UNNAMED burpsuite_pro_v2022.3.9.jar
