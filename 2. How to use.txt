@@ -1,0 +1,14 @@
+Chuẩn bị:
+-Tải các tài nguyên cần thiết (Java và Burp Suite Pro) (bắt buộc).
+-Chạy file setup Windows/Kali để tự động setup môi trường.
+
+Active:
+-Chạy file run.bat để setup BurpPro
+-Chấp nhận điều khoản và đến bước nhập key
+-Mở file burploader.jar để tạo Keygen
+-Thay đổi phần License Text thành "License to <tên bất kì>"
+-Copy phần License ở dưới vừa được tạo sang phần nhập key của Burp
+-Nhấn Next, chọn Manual Activation
+-Copy Request từ Burp và paste vào Activation Request của Keygen
+-Copy phần Activation Response trả về và paste vào phản hồi của Burp
+-Nhấn next, bạn sẽ thấy active successfully

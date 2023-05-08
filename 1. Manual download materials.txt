@@ -1,0 +1,19 @@
+##### Download Java
+# Java JDK > 18
+https://www.oracle.com/cis/java/technologies/downloads/
+# Java JRE > 8
+https://www.java.com/en/download/
+
+
+##### Burp Suite Pro 2022.8.2
+# Windows
+Invoke-WebRequest -Uri https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.2&type=jar -Verbose
+# Linux
+wget --quiet --show-progress https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.2&type=jar
+
+
+##### Burp Suite Pro 2022.3.9
+# Windows
+Invoke-WebRequest -Uri https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.3.9&type=jar -Verbose
+# Linux
+wget --quiet --show-progress https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.3.9&type=jar
